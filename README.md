@@ -1,4 +1,5 @@
-# JarBindingArgumentNamesParse
+# Jar Binding Argument Names Parser
+For Xamarin java bindings.
 Simple parser that parses .aidl files and generates metadata.xml managedName attributes for method arguments.
 
 
